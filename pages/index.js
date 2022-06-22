@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Next.js! schools</a>
         </h1>
         <p>
           خضرچوپان محل خوبی در ماهنشان است که مدرسه مر خضرچوپان در ان جایی گرفته
